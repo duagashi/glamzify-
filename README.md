@@ -1,1 +1,2 @@
-# glamzify-
+# glamzify
+ projekt
